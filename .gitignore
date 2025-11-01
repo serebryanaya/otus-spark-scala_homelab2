@@ -1,6 +1,5 @@
 *.bsp/
 *.idea/
-src
 *target
 build.sbt
 
